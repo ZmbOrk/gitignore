@@ -1,0 +1,9 @@
+# Игнор файла Thumbs.db
+Thumbs.db
+# Игнор DS_store
+.DS_store
+# Инор папки tmp
+tmp/*
+# Игнор old & backup
+*_old
+*_backup
